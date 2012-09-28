@@ -1,6 +1,6 @@
 # shameless ripoff cia.vc, since they are dead, trying to make use of the new
 # api
-# server is lgpl and available at tshirtman/kgbj
+# server is lgpl and available at tshirtman/kgb
 
 class Service::KGB < Service
   string :project, :branch, :module
